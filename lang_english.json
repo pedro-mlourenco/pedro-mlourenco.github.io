@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "description_header": "Hej",
+    "description": "👋 I'm Pedro, an experienced programmer specializing in web development and software engineering. Proficient in front-end frameworks like React, Angular, and Vue, as well as back-end technologies including Django, Laravel, and Asp.Net. My expertise extends to Android app development, where I've contributed significantly to large-scale management applications, demonstrating a proven track record in project execution across diverse platforms. Eager to apply my skills to create innovative and scalable solutions in the dynamic programming landscape.",
+    "section_name": {
+      "about": "About me",
+      "experience": "Experience",
+      "projects": "Projects",
+      "skills": "Skills"
+    }
+  },
+  "experience": [
+    {
+      "company": "Will Repair",
+      "title": "Back-End Developer",
+      "years": "Sept 2020 – Feb 2022",
+      "mainTech": ["Node.Js"],
+      "technologies": [
+        "REST API",
+        "Typescript",
+        "SQL Server",
+        "AWS",
+        "Vendor Services"
+      ]
+    },
+    {
+      "company": "Ideal Roofing",
+      "title": "Full-Stack Developer",
+      "years": "Nov 2022 – May 2024",
+      "mainTech": [".Net"],
+      "technologies": [
+        "REST API",
+        "PHP",
+        "JavaScript",
+        "Bootstrap",
+        ".NET Core",
+        "SignalR",
+        "React",
+        "SQL Server",
+        "Azure Cloud"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Full-Stack Engineer",
+      "years": "Jun 2024 – Oct 2024",
+      "mainTech": ["Python"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Angular Material",
+        "Django",
+        "No-SQL Database",
+        "Google Cloud"
+      ]
+    } 
+  ],
+  "projects": [
+    {
+      "title": "House Mate",
+      "startDate": "2024",
+      "description": " The replacement for the several apps that I use on a daily base that don’t keep my data private, such as Google calendar and keep notes, and a meal and calorie tracker such as MyFitnessPal. The goal is to build a platform that can be opened to the community and improved while keeping all data as private as possible. In the long run I would like to also implement photos backup functionality and an online interface to what the backed up photos and movies",
+      "images": [
+        "images/portfolio/house-mate/p1.png",
+        "images/portfolio/house-mate/p2.png"
+      ],
+      "url": "",
+      "technologies": [        
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJs"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    }
+  ]
+}

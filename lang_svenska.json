@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "description_header": "Hej",
+    "description": "👋 Jag heter Pedro och är en erfaren programmerare som specialiserar sig på webbutveckling och programvaruteknik. Jag är skicklig på front-end-ramverk som React, Angular och Vue, samt back-end-tekniker som Django, Laravel och Asp.Net. Min expertis sträcker sig till Android-apputveckling, där jag har bidragit avsevärt till storskaliga förvaltningsapplikationer, vilket visar en beprövad meritlista i projektgenomförande över olika plattformar. Jag är ivrig att tillämpa mina färdigheter för att skapa innovativa och skalbara lösningar i det dynamiska programmeringslandskapet.",
+    "section_name": {
+      "about": "Om mig",
+      "experience": "Erfarenhet",
+      "projects": "Projekt",
+      "skills": "Kompetens"
+    }
+  },
+  "experience": [
+    {
+      "company": "Will Repair",
+      "title": "Backend-utvecklare",
+      "years": "sept 2020 – febr 2022",
+      "mainTech": ["Node.Js"],
+      "technologies": [
+        "REST API",
+        "Typescript",
+        "SQL Server",
+        "AWS",
+        "Vendor Services"
+      ]
+    },
+    {
+      "company": "Ideal Roofing",
+      "title": "Full-Stack utvecklare",
+      "years": "nov 2022 – maj 2024",
+      "mainTech": [".Net"],
+      "technologies": [
+        "REST API",
+        "PHP",
+        "JavaScript",
+        "Bootstrap",
+        ".NET Core",
+        "SignalR",
+        "React",
+        "SQL Server",
+        "Azure Cloud"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Full-stack ingenjör",
+      "years": "juni 2024 – okt 2024",
+      "mainTech": ["Python"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Angular Material",
+        "Django",
+        "No-SQL Database",
+        "Google Cloud"
+      ]
+    } 
+  ],
+  "projects": [
+    {
+      "title": "House Mate",
+      "startDate": "2024",
+      "description": "Ersättningen för flera appar som jag använder dagligen och som inte håller mina data privata, till exempel Google Kalender och Keep Notes, och en måltids- och kaloritracker som MyFitnessPal. Målet är att bygga en plattform som kan öppnas för samhället och förbättras samtidigt som all data hålls så privat som möjligt. På lång sikt skulle jag också vilja implementera säkerhetskopieringsfunktionalitet för foton och ett onlinegränssnitt för vad de säkerhetskopierade bilderna och filmerna",
+      "images": [
+        "images/portfolio/house-mate/p1.png",
+        "images/portfolio/house-mate/p2.png"
+      ],
+      "url": "",
+      "technologies": [        
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJs"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    }
+  ]
+}
