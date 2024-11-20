@@ -64,7 +64,7 @@
         "images/portfolio/house-mate/p1.png",
         "images/portfolio/house-mate/p2.png"
       ],
-      "url": "",
+      "url": "https://github.com/pedro-mlourenco/house-mate",
       "technologies": [        
         {
           "class": "devicon-nodejs-plain",
@@ -81,6 +81,29 @@
         {
           "class": "devicon-react-plain",
           "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Healthify",
+      "startDate": "2022",
+      "description": "Healthify Platform for restaurants is a comprehensive solution that allows restaurants to efficiently manage bookings, inventory, kitchen orders, and employees, while seamlessly integrating with an Android app for clients and employees.",
+      "images": [
+        "images/portfolio/healthify/logo.png"
+      ],
+      "url": "https://github.com/pedro-mlourenco/Healthify-Web",
+      "technologies": [        
+        {
+          "class": "devicon-php-plain",
+          "name": "Php"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySql"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     }
