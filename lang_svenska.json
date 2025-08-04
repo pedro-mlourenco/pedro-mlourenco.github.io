@@ -24,9 +24,23 @@
       ]
     },
     {
+      "company": "LaTourrette Consulting",
+      "title": "Intern Konsult",
+      "years": "Feb 2020 – Jun 2022",
+      "mainTech": [".Net"],
+      "technologies": [
+        "REST API",
+        "C#",
+        "SQL Server",
+        "Azure Cloud",
+        "OCR Algorithm",
+        "Kofax"
+      ]
+    },
+    {
       "company": "Ideal Roofing",
       "title": "Full-Stack utvecklare",
-      "years": "nov 2022 – maj 2024",
+      "years": "nov 2022 – nov 2024",
       "mainTech": [".Net"],
       "technologies": [
         "REST API",
@@ -41,19 +55,12 @@
       ]
     },
     {
-      "company": "Freelancer",
-      "title": "Full-stack ingenjör",
-      "years": "juni 2024 – Presens",
-      "mainTech": ["Python"],
-      "technologies": [
-        "REST API",
-        "JavaScript",
-        "Angular Material",
-        "Django",
-        "No-SQL Database",
-        "Google Cloud"
-      ]
-    } 
+      "company": "BudCenter",
+      "title": "Cleaning Specialist",
+      "years": "Nov 2024 – Present",
+      "mainTech": [],
+      "technologies": []
+    }
   ],
   "projects": [
     {
@@ -65,22 +72,22 @@
         "images/portfolio/house-mate/p2.png"
       ],
       "url": "https://pedro-mlourenco.github.io/housemate/",
-      "technologies": [        
+      "technologies": [
         {
-          "class": "devicon-nodejs-plain",
-          "name": "NodeJs"
+          "class": "devicon-csharp-plain",
+          "name": "CSharp"
         },
         {
-          "class": "devicon-django-plain",
-          "name": "Django"
+          "class": "devicon-azuresqldatabase-plain",
+          "name": "SqlServer"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailWindCss"
         },
         {
-          "class": "devicon-react-plain",
-          "name": "React"
+          "class": "devicon-JavaScript-plain",
+          "name": "JavaScript"
         }
       ]
     },
@@ -88,11 +95,9 @@
       "title": "Healthify",
       "startDate": "2022",
       "description": "Healthify Platform för restauranger är en heltäckande lösning som gör det möjligt för restauranger att effektivt hantera bokningar, lager, köksbeställningar och anställda, samtidigt som den sömlöst integreras med en Android-app för kunder och anställda.",
-      "images": [
-        "images/portfolio/healthify/logo.png"
-      ],
+      "images": ["images/portfolio/healthify/logo.png"],
       "url": "https://github.com/pedro-mlourenco/Healthify-Web",
-      "technologies": [        
+      "technologies": [
         {
           "class": "devicon-php-plain",
           "name": "Php"

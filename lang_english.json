@@ -24,9 +24,23 @@
       ]
     },
     {
+      "company": "LaTourrette Consulting",
+      "title": "Internal Consultant",
+      "years": "Feb 2020 – Jun 2022",
+      "mainTech": [".Net"],
+      "technologies": [
+        "REST API",
+        "C#",
+        "SQL Server",
+        "Azure Cloud",
+        "OCR Algorithm",
+        "Kofax"
+      ]
+    },
+    {
       "company": "Ideal Roofing",
       "title": "Full-Stack Developer",
-      "years": "Nov 2022 – May 2024",
+      "years": "Nov 2022 – Nov 2024",
       "mainTech": [".Net"],
       "technologies": [
         "REST API",
@@ -41,46 +55,39 @@
       ]
     },
     {
-      "company": "Freelancer",
-      "title": "Full-Stack Engineer",
-      "years": "Jun 2024 – Present",
-      "mainTech": ["Python"],
-      "technologies": [
-        "REST API",
-        "JavaScript",
-        "Angular Material",
-        "Django",
-        "No-SQL Database",
-        "Google Cloud"
-      ]
-    } 
+      "company": "BudCenter",
+      "title": "Cleaning Specialist",
+      "years": "Nov 2024 – Present",
+      "mainTech": [],
+      "technologies": []
+    }
   ],
   "projects": [
     {
       "title": "House Mate",
-      "startDate": "2024",
-      "description": " The replacement for the several apps that I use on a daily base that don’t keep my data private, such as Google calendar and keep notes, and a meal and calorie tracker such as MyFitnessPal. The goal is to build a platform that can be opened to the community and improved while keeping all data as private as possible. In the long run I would like to also implement photos backup functionality and an online interface to what the backed up photos and movies",
+      "startDate": "2025",
+      "description": " A web-based platform that combines personal calendar management with receipt tracking and expense management capabilities.",
       "images": [
         "images/portfolio/house-mate/p1.png",
         "images/portfolio/house-mate/p2.png"
       ],
       "url": "https://pedro-mlourenco.github.io/housemate/",
-      "technologies": [        
+      "technologies": [
         {
-          "class": "devicon-nodejs-plain",
-          "name": "NodeJs"
+          "class": "devicon-csharp-plain",
+          "name": "CSharp"
         },
         {
-          "class": "devicon-django-plain",
-          "name": "Django"
+          "class": "devicon-azuresqldatabase-plain",
+          "name": "SqlServer"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailWindCss"
         },
         {
-          "class": "devicon-react-plain",
-          "name": "React"
+          "class": "devicon-JavaScript-plain",
+          "name": "JavaScript"
         }
       ]
     },
@@ -88,11 +95,9 @@
       "title": "Healthify",
       "startDate": "2022",
       "description": "Healthify Platform for restaurants is a comprehensive solution that allows restaurants to efficiently manage bookings, inventory, kitchen orders, and employees, while seamlessly integrating with an Android app for clients and employees.",
-      "images": [
-        "images/portfolio/healthify/logo.png"
-      ],
+      "images": ["images/portfolio/healthify/logo.png"],
       "url": "https://github.com/pedro-mlourenco/Healthify-Web",
-      "technologies": [        
+      "technologies": [
         {
           "class": "devicon-php-plain",
           "name": "Php"
